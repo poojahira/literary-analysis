@@ -11,7 +11,7 @@ Theme: Theme is defined as a main idea or an underlying meaning of a literary wo
 
 Style: Style in literature is the literary element that describes the ways that the author uses words — the author's word choice, sentence structure, figurative language, and sentence arrangement all work together to establish mood, images, and meaning in the text.
 
-The dataset is comprised of 118 New Yorker short fiction stories scraped from: https://www.newyorker.com/magazine/fiction.
+The dataset is comprised of 118 New Yorker short fiction stories scraped from: https://www.newyorker.com/magazine/fiction. A human readable form of the dataset can be found in the file whole_dataset.csv. 
 
 To run the analysis please type 
 
