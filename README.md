@@ -1,7 +1,6 @@
-# literary-analysis
-Literary Analysis of Short fiction
+# Literary Analysis of Short fiction
 
-This system attempts to identify some elements of a typical story, namely:
+This project attempts to identify some elements of a typical story, namely:
 
 Point of view: The term point of view refers to who is telling a story, or who is narrating it. The narration of a story or novel can be told in three main ways: first person, second person, and third person.
 
