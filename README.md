@@ -12,6 +12,8 @@ Style: Style in literature is the literary element that describes the ways that 
 
 The dataset is comprised of 118 New Yorker short fiction stories scraped from: https://www.newyorker.com/magazine/fiction. A human readable form of the dataset can be found in the file whole_dataset.csv. 
 
+Common NLP techniques are used like Parts of Speech parsing, Named Entity Recognition parsing, word counts, Tf-IDF, pattern analysis, classification using a Multilayer Perceptron Classifier.
+
 To run the analysis please type 
 
 ```python
